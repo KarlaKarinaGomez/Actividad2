@@ -7,7 +7,7 @@ output:
 date: "2024-02-05"
 ---
 
-## Chunk de carga de paquetes, definición de variables, etc Realizando cambios .
+# Chunk de carga de paquetes, definición de variables, etc Realizando cambios .
 
 Este chunk debería marcarse con echo=FALSE y message=FALSE. ¿Tal vez los demás también? Esto ya dependerá de las preferencias personales de cada quien y el cómo quiere presentar sus resultados.
 
@@ -19,7 +19,7 @@ library(tidyverse)
 casos <- coronavirus::coronavirus
 ```
 
-## Antecedentes
+### Antecedentes
 
 Se empieza definiendo un poco de contexto en 3 párrafos:
 
